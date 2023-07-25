@@ -1,6 +1,8 @@
 # Анализ оттока клиентов банка ☀️
 [Полная версия решения](https://github.com/shepelyuk-alexa/portfolio/blob/main/bank's-churn-clients-analysis/Shepelyuk_Alexandra_banks_project.ipynb)
 
+[Презентация](https://drive.google.com/file/d/1G2lZ5eT1ZDwimnz28LZm8Zu0TzogoBap/view)
+
 ## Описание проекта и задач
 
 **Общая информация:** датасет содержит данные о клиентах банка «Метанпром». Банк располагается в Ярославле и областных городах: Ростов Великий и Рыбинск.
